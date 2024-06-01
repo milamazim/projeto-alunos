@@ -1,2 +1,9 @@
-# projeto-alunos
-Projeto alunos, desenvolvido no curso de Ciencia de Dados
+# Projeto Alunos
+
+Você foi contratado para ser um cientista de dados em uma instituição de ensino a distância (EAD), sua primeira missão é criar um modelo de regressão linear para entender como o tempo dedicado aos estudos influencia o desempenho dos alunos em todo o Brasil. O desafio consiste em analisar os dados dos milhares de alunos matriculados em nossa instituição, espalhados por todos os estados brasileiros. Coletando informações demográficas, padrões de estudo e resultados de testes, seu objetivo é descobrir como podemos melhorar o ensino e maximizar o sucesso acadêmico dos alunos.
+
+Prever a nota de um estudante com base nas horas de estudo é uma estratégia relevante e interessante dentro do contexto da análise de dados em uma instituição de ensino a distância (EAD) por várias razões. Essa abordagem nos permite identificar padrões e tendências ocultas nos dados dos alunos, revelando como o tempo dedicado aos estudos está diretamente relacionado ao desempenho acadêmico. Isso é crucial para compreender como os alunos respondem ao ambiente de aprendizagem virtual e como suas práticas de estudo afetam seu sucesso.
+
+Além disso, prever a nota de um aluno com base nas horas de estudo pode servir como uma ferramenta eficaz para avaliar seu desempenho futuro. Essas previsões podem ser usadas para identificar alunos que estão em risco de baixo desempenho acadêmico, permitindo que a instituição ofereça o suporte necessário para ajudá-los a ter sucesso.
+
+Essa abordagem também pode ser útil para os próprios alunos, pois lhes dará insights sobre como otimizar seu tempo de estudo. Com base nas previsões, os alunos podem ajustar sua abordagem de estudo, dedicando mais tempo às áreas em que estão com dificuldade ou identificando os momentos ideais para revisar o material com base nas horas disponíveis.
